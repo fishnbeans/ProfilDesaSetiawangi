@@ -1,0 +1,188 @@
+.carousel-item img{
+    height: 500px;
+    object-fit: cover;
+}
+
+.caption-center .carousel-caption {
+    top: 50%;
+    bottom: auto;
+    transform: translateY(-50%);
+}
+
+/* Team slider styles */
+#teamCarousel .card-img-top {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    height: 320px;
+    object-fit: cover;
+}
+
+#teamCarousel .card {
+    border: none;
+}
+
+#teamCarousel .card-body {
+    padding-top: 0.5rem;
+    padding-bottom: 0.75rem;
+}
+
+#teamCarousel .card-title {
+    font-size: 1rem;
+    margin-bottom: 0.25rem;
+}
+
+#teamCarousel .card-subtitle {
+    font-size: 0.85rem;
+    color: #ffffff;
+}
+
+/* Map & table section */
+.map-container {
+    width: 100%;
+    height: 340px;
+    overflow: hidden;
+    border-radius: 6px;
+    border: 1px solid #dee2e6;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.table-fixed {
+    table-layout: fixed;
+    width: 100%;
+}
+.table-fixed th,
+.table-fixed td {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.table-fixed tfoot td {
+    background: #f8f9fa;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Footer styles */
+.site-footer {
+    background: #0f5132;
+    color: #ffffff;
+    padding: 2rem 0;
+}
+.site-footer a {
+    color: rgba(255,255,255,0.9);
+    text-decoration: none;
+}
+.site-footer a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+.site-footer h5 {
+    color: #ffffff;
+    margin-bottom: 0.75rem;
+}
+.site-footer .footer-bottom {
+    border-top: 1px solid rgba(255,255,255,0.08);
+    margin-top: 1.25rem;
+    padding-top: 0.75rem;
+    text-align: center;
+    color: rgba(255,255,255,0.85);
+}
+
+/* Info card for Batas Desa */
+.info-card {
+    background: #ffffff;
+    border-radius: 18px;
+    padding: 22px;
+}
+.info-card h5 {
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+.info-card h6 {
+    margin: 0 0 6px 0;
+    font-size: 0.95rem;
+    color: #111827;
+}
+.info-card p {
+    margin: 0 0 12px 0;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+}
+.info-card hr {
+    border: 0;
+    border-top: 1px solid #e9ecef;
+    margin: 12px 0;
+}
+.info-card .meta-row strong {
+    font-weight: 700;
+}
+.info-card .meta-row span {
+    color: #374151;
+}
+
+@media (max-width: 576px) {
+    .info-card { padding: 16px; }
+}
+
+@media (max-width: 576px) {
+    .map-container {
+        height: 220px;
+    }
+}
+
+/* Responsive tweaks for various breakpoints */
+@media (max-width: 992px) {
+    .carousel-item img {
+        height: 420px;
+    }
+    #teamCarousel .card-img-top {
+        height: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-item img {
+        height: 320px;
+    }
+    .carousel-caption h1 {
+        font-size: 1.15rem;
+    }
+    .carousel-caption p {
+        font-size: 0.95rem;
+    }
+    .display-4 {
+        font-size: 2.5rem;
+    }
+    #teamCarousel .card-img-top {
+        height: 260px;
+    }
+    .navbar-brand img { height: 26px; }
+    .navbar-nav { margin-left: 0!important; }
+}
+
+@media (max-width: 480px) {
+    .carousel-item img {
+        height: 220px;
+    }
+    .carousel-caption { display: none; }
+    .display-4 { font-size: 2rem; }
+    .info-card { padding: 14px; }
+    #teamCarousel .card-img-top { height: 200px; object-fit: cover; }
+}
+
+/* Make content images fluid by default (preserve map container fixed height) */
+.info-card img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Ensure map iframe fills its container height (restores previous behavior) */
+.map-container iframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
