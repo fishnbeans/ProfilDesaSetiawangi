@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "StrukturOrganisasi"
+    label: "StrukturOrganisasi"
+    folder: "content/StrukturOrganisasi"
+    fields:
+      - label: "Profil Desa"
+        name: "profil-desa"
+        folder: "profil-desa.html"
+        create: true
+        delete: true
+        slug: "{{slug}}"
+        summary: "{{fields.title}}"
+        fields:
+          - { label: "Nama", name: "nama", widget: "string" }
+          - { label: "Gambar", name: "gambar", widget: "image" }
+          - { label: "Jabatan", name: "jabatan", widget: "text" }
