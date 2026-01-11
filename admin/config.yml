@@ -4,20 +4,18 @@ backend:
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
-
 collections:
-  - name: "StrukturOrganisasi"
-    label: "StrukturOrganisasi"
-    folder: "content/StrukturOrganisasi"
-    fields:
-      - label: "Profil Desa"
-        name: "profil-desa"
-        folder: "profil-desa.html"
-        create: true
-        delete: true
-        slug: "{{slug}}"
-        summary: "{{fields.title}}"
+  - name: "struktur_organisasi"
+    label: "Struktur Organisasi"
+    files:
+      - label: "Struktur Organisasi Data"
+        name: "struktur_organisasi"
+        file: "assets/data/struktur-organisasi.json"
         fields:
-          - { label: "Nama", name: "nama", widget: "string" }
-          - { label: "Gambar", name: "gambar", widget: "image" }
-          - { label: "Jabatan", name: "jabatan", widget: "text" }
+          - label: "Members"
+            name: "members"
+            widget: "list"
+            fields:
+              - { label: "Nama", name: "nama", widget: "string" }
+              - { label: "Gambar", name: "gambar", widget: "image" }
+              - { label: "Jabatan", name: "jabatan", widget: "string" }
