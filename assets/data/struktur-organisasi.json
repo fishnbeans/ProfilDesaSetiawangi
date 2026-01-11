@@ -1,0 +1,19 @@
+{
+  "members": [
+    {
+      "nama": "Budi Santoso",
+      "gambar": "/assets/uploads/test1.jpg",
+      "jabatan": "Kepala Desa"
+    },
+    {
+      "nama": "Siti Aminah",
+      "gambar": "/assets/uploads/test1.jpg",
+      "jabatan": "Sekretaris"
+    },
+    {
+      "nama": "Andi Wijaya",
+      "gambar": "/assets/uploads/test1.jpg",
+      "jabatan": "Kasi Pemerintahan"
+    }
+  ]
+}
