@@ -4,6 +4,11 @@
       "nama": "tes",
       "gambar": "/assets/uploads/test1.webp",
       "jabatan": "tes"
+    },
+    {
+      "nama": "Nurman",
+      "gambar": "/assets/uploads/test1.webp",
+      "jabatan": "Sekertaris Desa"
     }
   ]
 }
