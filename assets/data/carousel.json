@@ -1,0 +1,36 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "image": "assets/carrousel1.JPG",
+      "title": "Selamat Datang di Desa Setiawangi",
+      "description": "Desa Setiawangi berdiri tahun 1985 di Kecamatan Jatiwaras, Kabupaten Tasikmalaya, dengan kepala desa pertama Bapak O. Karsono dan luas wilayah sekitar 915 hektar.",
+      "buttonText": "Pelajari Lebih Lanjut",
+      "buttonLink": "profil-desa.html"
+    },
+    {
+      "id": 2,
+      "image": "assets/carrousel2.JPG",
+      "title": "Data Desa",
+      "description": "Potret desa dalam angka dan fakta. Dari jumlah penduduk hingga potensi wilayah, semua terangkum untuk membantu perencanaan yang lebih tepat.",
+      "buttonText": "Pelajari Lebih Lanjut",
+      "buttonLink": "data-desa.html"
+    },
+    {
+      "id": 3,
+      "image": "assets/carrousel3.JPG",
+      "title": "Berita & Kegiatan",
+      "description": "Ikuti cerita terbaru dari desa. Setiap kegiatan, pengumuman, dan momen penting kami hadirkan agar warga tak ketinggalan kabar.",
+      "buttonText": "Pelajari Lebih Lanjut",
+      "buttonLink": "berita.html"
+    },
+    {
+      "id": 4,
+      "image": "assets/carrousel3.JPG",
+      "title": "Usaha & Olahan",
+      "description": "Produk lokal, rasa kebanggaan. Jelajahi usaha warga serta berbagai olahan khas desa yang tumbuh dari kreativitas bersama.",
+      "buttonText": "Pelajari Lebih Lanjut",
+      "buttonLink": "umkm.html"
+    }
+  ]
+}

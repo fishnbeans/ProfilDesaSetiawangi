@@ -1,0 +1,37 @@
+{
+  "chartTitle": "Distribusi Penduduk Berdasarkan Pekerjaan",
+  "data": [
+    {
+      "job": "Petani",
+      "count": 1200
+    },
+    {
+      "job": "Buruh Tani",
+      "count": 850
+    },
+    {
+      "job": "Pedagang",
+      "count": 680
+    },
+    {
+      "job": "Karyawan Swasta",
+      "count": 920
+    },
+    {
+      "job": "PNS",
+      "count": 320
+    },
+    {
+      "job": "Pengrajin",
+      "count": 450
+    },
+    {
+      "job": "Nelayan",
+      "count": 280
+    },
+    {
+      "job": "Lainnya",
+      "count": 266
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Berita dan Kegiatan",
+  "items": [
+    {
+      "judul": "Peluncuran Program Pemberdayaan UMKM",
+      "tanggal": "2026-01-15",
+      "isi": "Desa Setiawangi resmi meluncurkan program pemberdayaan UMKM untuk mendukung pertumbuhan ekonomi lokal. Program ini melibatkan pelatihan, pendampingan bisnis, dan akses ke pasar yang lebih luas.",
+      "gambar": "assets/uploads/berita-umkm.jpg"
+    },
+    {
+      "judul": "Kegiatan Gotong Royong Pembersihan Lingkungan",
+      "tanggal": "2026-01-10",
+      "isi": "Masyarakat Desa Setiawangi mengadakan kegiatan gotong royong untuk membersihkan lingkungan sekitar desa. Kegiatan ini melibatkan ratusan warga dan menghasilkan lingkungan yang lebih bersih dan rapi.",
+      "gambar": "assets/uploads/berita-gotong-royong.jpg"
+    },
+    {
+      "judul": "Pelatihan Keterampilan Dasar untuk Pemuda",
+      "tanggal": "2026-01-05",
+      "isi": "Pemerintah Desa Setiawangi menyelenggarakan pelatihan keterampilan dasar untuk pemuda desa dalam bidang teknologi informasi dan keterampilan vokasi lainnya.",
+      "gambar": "assets/uploads/berita-pelatihan.jpg"
+    },
+    {
+      "judul": "Festival Desa Setiawangi Tahun 2026",
+      "tanggal": "2025-12-28",
+      "isi": "Desa Setiawangi akan mengadakan festival tahunan yang menampilkan budaya lokal, kuliner khas desa, dan berbagai kegiatan seru untuk seluruh keluarga. Acara ini akan berlangsung selama 3 hari penuh.",
+      "gambar": "assets/uploads/berita-festival.jpg"
+    },
+    {
+      "judul": "Pembangunan Sarana Kesehatan Desa",
+      "tanggal": "2025-12-20",
+      "isi": "Pembangunan pos kesehatan desa yang baru telah rampung. Fasilitas ini dilengkapi dengan peralatan kesehatan modern untuk memberikan layanan kesehatan yang lebih baik kepada masyarakat.",
+      "gambar": "assets/uploads/berita-kesehatan.jpg"
+    },
+    {
+      "judul": "Pelatihan Pertanian Modern untuk Petani Lokal",
+      "tanggal": "2025-12-15",
+      "isi": "Petani lokal Desa Setiawangi mendapatkan pelatihan tentang teknik pertanian modern, penggunaan teknologi, dan praktik pertanian berkelanjutan untuk meningkatkan hasil panen.",
+      "gambar": "assets/uploads/berita-pertanian.jpg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "chartTitle": "Distribusi Penduduk Berdasarkan Pendidikan",
+  "data": [
+    {
+      "education": "Tidak Tamat SD",
+      "count": 280
+    },
+    {
+      "education": "Tamat SD",
+      "count": 420
+    },
+    {
+      "education": "SMP",
+      "count": 680
+    },
+    {
+      "education": "SMA",
+      "count": 1200
+    },
+    {
+      "education": "Diploma",
+      "count": 450
+    },
+    {
+      "education": "Sarjana",
+      "count": 950
+    },
+    {
+      "education": "Magister",
+      "count": 286
+    },
+    {
+      "education": "Doktor",
+      "count": 220
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "chartTitle": "Distribusi Penduduk Berdasarkan Usia",
+  "data": [
+    {
+      "ageRange": "0-5",
+      "count": 450
+    },
+    {
+      "ageRange": "6-11",
+      "count": 520
+    },
+    {
+      "ageRange": "12-17",
+      "count": 580
+    },
+    {
+      "ageRange": "18-25",
+      "count": 680
+    },
+    {
+      "ageRange": "26-35",
+      "count": 750
+    },
+    {
+      "ageRange": "36-45",
+      "count": 720
+    },
+    {
+      "ageRange": "46-55",
+      "count": 650
+    },
+    {
+      "ageRange": "56-65",
+      "count": 480
+    },
+    {
+      "ageRange": "65+",
+      "count": 306
+    }
+  ]
+}

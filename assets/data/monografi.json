@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "label": "Penduduk",
+      "value": "5.566",
+      "icon": "bi-people-fill",
+      "color": "success"
+    },
+    {
+      "label": "Kepala Keluarga",
+      "value": "1.715",
+      "icon": "bi-houses-fill",
+      "color": "warning"
+    },
+    {
+      "label": "Laki-Laki",
+      "value": "2.853",
+      "icon": "bi-gender-male",
+      "color": "primary"
+    },
+    {
+      "label": "Perempuan",
+      "value": "2.713",
+      "icon": "bi-gender-female",
+      "color": "danger"
+    },
+    {
+      "label": "Islam",
+      "value": "5.566",
+      "icon": "bi-moon-stars-fill",
+      "color": "info"
+    },
+    {
+      "label": "Non-Islam",
+      "value": "0",
+      "icon": "bi-three-dots",
+      "color": "secondary"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Potensi pada Bidang Pembinaan Kemasyarakatan Desa",
+  "data": [
+    {
+      "no": 1,
+      "uraian": "Lembaga Kemasyarakatan",
+      "jumlah": "3 Orang",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "LPM",
+          "jumlah": "15 orang"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Karang Taruna",
+          "jumlah": "22 orang"
+        },
+        {
+          "subNo": "c",
+          "uraian": "PKK",
+          "jumlah": "20 orang"
+        },
+        {
+          "subNo": "d",
+          "uraian": "Kader Posyandu",
+          "jumlah": "-"
+        },
+        {
+          "subNo": "e",
+          "uraian": "Ormas :",
+          "jumlah": "",
+          "subSubitems": [
+            {
+              "uraian": "Muslimat NU",
+              "jumlah": "20 orang"
+            },
+            {
+              "uraian": "Fathayat",
+              "jumlah": "12 orang"
+            },
+            {
+              "uraian": "KNPI",
+              "jumlah": "1 orang"
+            }
+          ]
+        },
+        {
+          "subNo": "f",
+          "uraian": "LSM",
+          "jumlah": "4 PP"
+        },
+        {
+          "subNo": "g",
+          "uraian": "Partai Politik",
+          "jumlah": "-"
+        },
+        {
+          "subNo": "h",
+          "uraian": "Organisasi Profesi",
+          "jumlah": "",
+          "subSubitems": [
+            {
+              "uraian": "PGRI",
+              "jumlah": "46 orang"
+            },
+            {
+              "uraian": "Forum Komunikasi Guru Diniyah",
+              "jumlah": "1"
+            },
+            {
+              "uraian": "Himpunan Guru PAUD",
+              "jumlah": "1"
+            }
+          ]
+        },
+        {
+          "subNo": "i",
+          "uraian": "Majelis Ulama Indonesia tingkat Desa",
+          "jumlah": "3 orang"
+        },
+        {
+          "subNo": "j",
+          "uraian": "Majelis Taklim",
+          "jumlah": "11"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Sarana dan Fasilitas Penunjang Penyelenggaraan Pemerintahan",
+  "data": [
+    {
+      "no": 1,
+      "uraian": "Kantor Desa",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Ruang Kepala Desa",
+          "jumlah": "1 Ruangan"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Aula Desa",
+          "jumlah": "1 Ruangan"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Ruang Staf",
+          "jumlah": "1 Ruangan"
+        },
+        {
+          "subNo": "d",
+          "uraian": "Ruang PKK",
+          "jumlah": "1 Ruangan"
+        },
+        {
+          "subNo": "e",
+          "uraian": "Ruang BPD",
+          "jumlah": "1 Ruangan"
+        },
+        {
+          "subNo": "f",
+          "uraian": "Ruang MUI",
+          "jumlah": "1 Ruangan"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "uraian": "Inventaris Penunjang",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Meja Kantor Kepala Desa",
+          "jumlah": "1 Unit + Kursi"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Meja Rapat",
+          "jumlah": "2 Unit"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Meja Staf",
+          "jumlah": "1 Unit + Kursi"
+        },
+        {
+          "subNo": "f",
+          "uraian": "Laptop",
+          "jumlah": "6 Unit"
+        },
+        {
+          "subNo": "g",
+          "uraian": "Komputer",
+          "jumlah": "1 Unit"
+        },
+        {
+          "subNo": "h",
+          "uraian": "Infocus",
+          "jumlah": "1 Set"
+        }
+      ]
+    }
+  ]
+}

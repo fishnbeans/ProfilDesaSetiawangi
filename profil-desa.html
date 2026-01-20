@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Beranda | Desa Setiawangi</title>
+    <link rel="icon" href="assets/logo-kabupaten.webp" type="image/webp">
     <link rel="stylesheet" href="custom.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-success">
             <div class="container">
-                <a href="beranda.html" class="navbar-brand">
-                    <img src="assets/stella_sora_logo.png" alt="Stella Sora Logo" height="30" class="d-inline-block align-text-top fw-bold">
+                <a href="index.html" class="navbar-brand">
+                    <img src="assets/logo-kabupaten.webp" alt="Logo Kabupaten Tasikmalaya" height="30" class="d-inline-block align-text-top fw-bold">
                     Desa Setiawangi
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -24,15 +24,11 @@
                     <ul class="navbar-nav mx-lg-5 ms-auto">
                         <li class="nav-item"><a class="nav-link fw-bold" href="index.html">Beranda</a></li>
                         <li class="nav-item"><a class="nav-link active fw-bold" href="profil-desa.html">Profil Desa</a></li>
-                        <li class="nav-item"><a class="nav-link fw-bold" href="">Data Desa</a></li>
-                        <li class="nav-item"><a class="nav-link fw-bold" href="">Berita</a></li>
-                        <li class="nav-item"><a class="nav-link fw-bold" href="">UMKM</a></li>
-                        <li class="nav-item"><a class="nav-link fw-bold" href="">Bantuan</a></li>
-                        <li class="nav-item"><a class="nav-link fw-bold" href="">Kontak</a></li>
+                        <li class="nav-item"><a class="nav-link fw-bold" href="data-desa.html">Data Desa</a></li>
+                        <li class="nav-item"><a class="nav-link fw-bold" href="berita.html">Berita</a></li>
+                        <li class="nav-item"><a class="nav-link fw-bold" href="umkm.html">UMKM</a></li>
+                        <li class="nav-item"><a class="nav-link fw-bold" href="kontak.html">Kontak</a></li>
                     </ul>
-                    <div class="d-flex align-items-center ms-lg-3">
-                        <button id="login-button" type="button" class="btn btn-outline-light rounded-pill fw-bold ms-3">Login</button>
-                    </div>
                 </div>
             </div>
         </nav>
@@ -43,10 +39,10 @@
                     <div class="col-12 col-md-10 col-lg-8 shadow-sm">
                         <div class="info-card">
                             <h2 class="text-success fw-bold">Visi</h2>
-                            <p class="mb-4">"Melayani Masyarakat Desa Setiawangi secara menyeluruh demi terwujudnya Desa Setiawangi yang Religius/Islami, maju, mandiri, sehat, dan sejahtera."</p>
+                            <p id="visi-content" class="mb-4">Melayani Masyarakat Desa Setiawangi secara menyeluruh demi terwujudnya Desa Setiawangi yang Religius/Islami, maju, mandiri, sehat, dan sejahtera.</p>
 
                             <h2 class="text-success fw-bold mb-3">Misi</h2>
-                            <ol class="mb-0" style="padding-left:1.15rem">
+                            <ol id="misi-list" class="mb-0" style="padding-left:1.15rem">
                                 <li>Mewujudkan pemerintahan Desa Setiawangi yang tertib dan berwibawa</li>
                                 <li>Mewujudkan sarana dan prasarana Desa Setiawangi yang memadai</li>
                                 <li>Mewujudkan perekonomian dan kesejahteraan warga Desa Setiawangi</li>
@@ -76,8 +72,36 @@
             <div class="row justify-content-center">
                     <div class="col-12 col-md-10 col-lg-8 shadow">
                         <div class="info-card">
+                            <h2 class="text-success fw-bold mb-3">Sejarah Kepala Pemerintahan Desa Setiawangi</h2>
+                            <table class="table table-bordered table-hover">
+                                <thead style="background-color: #198754;">
+                                    <tr style="color: white;">
+                                        <th>Tahun/Periode</th>
+                                        <th>Kepala Pemerintahan</th>
+                                        <th>Keterangan</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="kepala-pemerintahan-table-body">
+                                    <!-- Data will be loaded dynamically -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row justify-content-center">
+                    <div class="col-12 col-md-10 col-lg-8 shadow">
+                        <div class="info-card">
                             <h2 class="text-success fw-bold mb-3">Struktur Organisasi Pemerintahan Desa Setiawangi</h2>
-                            <img src="assets/Struktur-pemerintahan.png" alt="Struktur Organisasi Pemerintahan Desa Setiawangi">
+                            <!-- Modular struktur: rendered from /assets/data/struktur-organisasi.json -->
+                            <div id="org-image-container" class="text-center">
+                                <img id="org-image" class="img-fluid shadow-sm" alt="Struktur Organisasi Pemerintahan Desa Setiawangi" src="assets/Struktur-pemerintahan.png">
+                            </div>
+                            <noscript>
+                                <img src="assets/Struktur-pemerintahan.png" alt="Struktur Organisasi Pemerintahan Desa Setiawangi">
+                            </noscript>
                         </div>
                     </div>
                 </div>
@@ -98,17 +122,17 @@
                             <div class="row">
                                 <div class="col-6">
                                     <h6>Utara</h6>
-                                    <p>DESA NANGA ENGKULUN</p>
+                                    <p>Kelurahan Setiawargi</p>
 
                                     <h6>Selatan</h6>
-                                    <p>DESA LANDAU APIN</p>
+                                    <p>Desa Kaputihan</p>
                                 </div>
                                 <div class="col-6">
                                     <h6>Timur</h6>
-                                    <p>DESA LANDAU KUMPAI</p>
+                                    <p>Desa Karyawangi</p>
 
                                     <h6>Barat</h6>
-                                    <p>DESA CENAYAN</p>
+                                    <p>Desa Sukakerta</p>
                                 </div>
                             </div>
 
@@ -120,7 +144,7 @@
                             <hr>
                             <div class="d-flex justify-content-between meta-row py-2">
                                 <strong>Jumlah Penduduk</strong>
-                                <span>1.890 Jiwa</span>
+                                <span id="jumlah-penduduk-display">—</span>
                             </div>
                         </div>
                     </div>
@@ -128,63 +152,37 @@
             </div>
         </section>
     </main>
-    <!-- Footer -->
+    
+     <!-- Footer -->
     <footer class="site-footer mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <h5>Desa Setiawangi</h5>
-                    <p>Desa Setiawangi — keindahan alam, budaya, dan komunitas yang ramah.</p>
+                    <h5>Kantor Desa Setiawangi</h5>
+                    <p>Kp. Cilangkap, Ds. Setiawangi, Kec. Jatiwaras, Kab. Tasikmalaya</p>
                 </div>
                 <div class="col-md-4">
                     <h5>Link Cepat</h5>
                     <ul class="list-unstyled">
-                        <li><a href="#">Beranda</a></li>
-                        <li><a href="#">Profil</a></li>
-                        <li><a href="#">Berita</a></li>
-                        <li><a href="#">UMKM</a></li>
+                        <li><a href="index.html">Beranda</a></li>
+                        <li><a href="profil-desa.html">Profil</a></li>
+                        <li><a href="berita.html">Berita</a></li>
+                        <li><a href="umkm.html">UMKM</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4">
                     <h5>Kontak</h5>
-                    <p class="mb-1">Jl. Desa No.1, Kecamatan</p>
                     <p class="mb-1">Email: info@desasetiawangi.example</p>
                     <p class="mb-0">Tel: (021) 123-4567</p>
                 </div>
             </div>
             <div class="footer-bottom">
-                <small>© 2026 Desa Setiawangi — Semua hak dilindungi.</small>
+                <small>© 2026 Desa Setiawangi</small>
             </div>
         </div>
     </footer>
-
-</script>
-    <script>
-        if (window.netlifyIdentity) {
-            window.netlifyIdentity.on('init', user => {
-                if (!user) {
-                    window.netlifyIdentity.on('login', () => {
-                        document.location.href = '/admin/';
-                    });
-                }
-            });
-            window.netlifyIdentity.init();
-        }
-
-        document.addEventListener('DOMContentLoaded', function () {
-            var btn = document.getElementById('login-button');
-            if (btn) {
-                btn.addEventListener('click', function (e) {
-                    e.preventDefault();
-                    if (window.netlifyIdentity) {
-                        window.netlifyIdentity.open('login');
-                    } else {
-                        window.location.href = 'login.html';
-                    }
-                });
-            }
-        });
-    </script>
+    <script type="module" src="scripts/profil-desa.js"></script>
+    <script src="scripts/render-kepala-pemerintahan.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>

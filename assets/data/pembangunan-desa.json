@@ -1,0 +1,88 @@
+{
+  "title": "Potensi Bidang Pelaksanaan Pembangunan Desa",
+  "data": [
+    {
+      "no": 1,
+      "uraian": "Infrastruktur Jalan",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Jalan Desa",
+          "jumlah": "Dalam Kondisi Baik"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Jalan Poros",
+          "jumlah": "Perlu Perbaikan"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "uraian": "Air Bersih dan Sanitasi",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Sumber Air Bersih",
+          "jumlah": "2 Unit Pompa"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Jamban Keluarga",
+          "jumlah": "90% Terpenuhi"
+        },
+        {
+          "subNo": "c",
+          "uraian": "MCK Bersama",
+          "jumlah": "3 Unit"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "uraian": "Pendidikan",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Sekolah Dasar",
+          "jumlah": "2 Unit"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Sekolah Menengah Pertama",
+          "jumlah": "1 Unit"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Perpustakaan Desa",
+          "jumlah": "Ada"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "uraian": "Kesehatan",
+      "jumlah": "",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Pustu (Puskesmas Pembantu)",
+          "jumlah": "1 Unit"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Posyandu",
+          "jumlah": "4 Unit"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Tenaga Kesehatan",
+          "jumlah": "5 Orang"
+        }
+      ]
+    }
+  ]
+}

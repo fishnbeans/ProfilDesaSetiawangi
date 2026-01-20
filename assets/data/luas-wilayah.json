@@ -1,0 +1,54 @@
+{
+  "luas-wilayah": [
+    {
+      "Lahan": "Sawah",
+      "Luas": "90",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Ladang",
+      "Luas": "72",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Perkebunan",
+      "Luas": "596",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Hutan",
+      "Luas": "58",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Hutan",
+      "Luas": "58",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Perkantoran",
+      "Luas": "6",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Pekuburan",
+      "Luas": "5",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Prasarana Umum",
+      "Luas": "17",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Lainnya",
+      "Luas": "17",
+      "Satuan": "Hektare"
+    },
+    {
+      "Lahan": "Total",
+      "Luas": "915",
+      "Satuan": "Hektare"
+    }
+  ]
+}

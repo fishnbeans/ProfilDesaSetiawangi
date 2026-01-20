@@ -1,0 +1,93 @@
+{
+  "title": "Potensi Sumber Daya untuk Pemberdayaan Masyarakat",
+  "data": [
+    {
+      "no": 1,
+      "uraian": "Pemberdayaan Ekonomi",
+      "jumlah": "Aktif",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Kelompok Usaha Mikro Kecil Menengah (UMKM)",
+          "jumlah": "15 kelompok"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Koperasi Simpan Pinjam",
+          "jumlah": "2 koperasi"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Pasar Tradisional",
+          "jumlah": "1 lokasi"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "uraian": "Pemberdayaan Pendidikan",
+      "jumlah": "Aktif",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Program Pelatihan Keterampilan",
+          "jumlah": "5 program"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Kursus Keterampilan Menjahit",
+          "jumlah": "1 kursus"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Perpustakaan Desa",
+          "jumlah": "1 unit"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "uraian": "Pemberdayaan Kesehatan",
+      "jumlah": "Aktif",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Program Kesehatan Ibu dan Anak",
+          "jumlah": "Rutin"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Posyandu",
+          "jumlah": "3 posyandu"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Klinik Kesehatan Desa",
+          "jumlah": "1 klinik"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "uraian": "Pemberdayaan Lingkungan",
+      "jumlah": "Aktif",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Program Penghijauan",
+          "jumlah": "Berkelanjutan"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Pengelolaan Sampah",
+          "jumlah": "3 TPS"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Air Bersih",
+          "jumlah": "2 sumber"
+        }
+      ]
+    }
+  ]
+}

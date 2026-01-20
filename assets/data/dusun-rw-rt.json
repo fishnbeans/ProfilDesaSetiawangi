@@ -1,0 +1,67 @@
+{
+  "dusun": [
+    {
+      "namaDusun": "Dusun Cipamulihan",
+      "rw": [
+        {
+          "namaRW": "RW 01",
+          "rt": [
+            {
+              "namaRT": "RT 01",
+              "alamat": "Jalan Utama No. 1-10"
+            },
+            {
+              "namaRT": "RT 02",
+              "alamat": "Jalan Utama No. 11-20"
+            }
+          ]
+        },
+        {
+          "namaRW": "RW 02",
+          "rt": [
+            {
+              "namaRT": "RT 01",
+              "alamat": "Jalan Samping No. 1-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "namaDusun": "Dusun Cilangkap",
+      "rw": [
+        {
+          "namaRW": "RW 01",
+          "rt": [
+            {
+              "namaRT": "RT 01",
+              "alamat": "Jalan Depan No. 1-25"
+            },
+            {
+              "namaRT": "RT 02",
+              "alamat": "Jalan Depan No. 26-50"
+            },
+            {
+              "namaRT": "RT 03",
+              "alamat": "Jalan Belakang No. 1-15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "namaDusun": "Dusun Cisaat",
+      "rw": [
+        {
+          "namaRW": "RW 01",
+          "rt": [
+            {
+              "namaRT": "RT 01",
+              "alamat": "Jalan Barat No. 1-20"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
