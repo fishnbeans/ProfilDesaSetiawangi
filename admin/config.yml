@@ -4,6 +4,7 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.naegiyagami.workers.dev
   local_backend: false
+  auth_endpoint: auth
 
 media_folder: "assets/uploads"
 public_folder: "assets/uploads"
