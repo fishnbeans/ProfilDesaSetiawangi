@@ -1,0 +1,10 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=~/public_html/
+    - export BUILD_DIR=~/repositories/ProfilDesaSetiawangi/  # Ganti kalau path build beda
+
+    - echo "Starting rsync deployment to $DEPLOYPATH"
+    - /usr/bin/rsync -av --exclude='.git' --exclude='.gitignore' --exclude='.cpanel.yml' --exclude='node_modules' $BUILD_DIR $DEPLOYPATH
+
+    - /bin/chmod -R 755 $DEPLOYPATH  # Pastikan permission aman (755 untuk folder, 644 untuk file)
+    - echo "Deployment finished successfully"
