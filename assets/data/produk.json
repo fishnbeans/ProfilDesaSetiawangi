@@ -1,87 +1,12 @@
 {
-  "title": "Rempeyek",
-  "description": "Rempeyek adalah camilan tradisional Indonesia yang terbuat dari tepung beras atau tepung terigu yang digoreng pipih, biasanya diisi dengan kacang tanah",
-  "gambar_produk": "/assets/uploads/WhatsApp Image 2026-01-20 at 10.59.21.jpeg",
   "produk": [
     {
-      "penjual": "Bu Siti",
-      "harga": "Rp 15.000",
-      "gambar": "/assets/uploads/keripik-singkong.jpg",
-      "deskripsi": "Keripik singkong renyah dengan berbagai pilihan rasa. Dibuat dari singkong pilihan dan bumbu tradisional yang lezat.",
-      "nama": "Keripik Singkong",
-      "id": 1
-    },
-    {
-      "penjual": "Pak Hendra",
-      "harga": "Rp 25.000",
-      "gambar": "/assets/uploads/dodol-garut.jpg",
-      "deskripsi": "Dodol tradisional dengan cita rasa khas Garut. Dibuat dengan resep turun temurun dan bahan berkualitas premium.",
-      "nama": "Dodol Garut",
-      "id": 2
-    },
-    {
-      "penjual": "Ibu Rina",
-      "harga": "Rp 12.000",
-      "gambar": "/assets/uploads/tahu-goreng.jpg",
-      "deskripsi": "Tahu goreng lembut di dalam, renyah di luar. Sempurna sebagai lauk pauk atau camilan sehari-hari.",
-      "nama": "Tahu Goreng",
-      "id": 3
-    },
-    {
-      "penjual": "Nenek Suci",
-      "harga": "Rp 20.000",
-      "gambar": "/assets/uploads/jenang-hitam.jpg",
-      "deskripsi": "Jenang hitam tradisional kaya manfaat. Dibuat dari beras hitam, gula merah, dan santan kelapa asli.",
-      "nama": "Jenang Hitam",
-      "id": 4
-    },
-    {
-      "penjual": "Pak Dahlan",
-      "harga": "Rp 18.000",
-      "gambar": "/assets/uploads/mie-aceh.jpg",
-      "deskripsi": "Mie Aceh autentik dengan kuah kental dan rasa yang menggugah selera. Dibuat fresh setiap hari.",
-      "nama": "Mie Aceh",
-      "id": 5
-    },
-    {
-      "penjual": "Bu Dina",
-      "harga": "Rp 35.000",
-      "gambar": "/assets/uploads/kue-lapis-legit.jpg",
-      "deskripsi": "Kue lapis legit dengan tekstur lembut dan rasa mantap. Cocok untuk hadiah atau konsumsi pribadi.",
-      "nama": "Kue Lapis Legit",
-      "id": 6
-    },
-    {
-      "penjual": "Ibu Kartini",
-      "harga": "Rp 8.000",
-      "gambar": "/assets/uploads/getuk-pisang.jpg",
-      "deskripsi": "Getuk pisang dengan sentuhan gula merah dan kelapa parut. Makanan tradisional yang mudah dan murah.",
-      "nama": "Getuk Pisang",
-      "id": 7
-    },
-    {
-      "penjual": "Bu Sinyum",
-      "harga": "Rp 10.000",
-      "gambar": "/assets/uploads/serabi-kuah.jpg",
-      "deskripsi": "Serabi lembut dengan kuah gula merah yang kental. Sajian favorit untuk sarapan atau snack pagi.",
-      "nama": "Serabi Kuah",
-      "id": 8
-    },
-    {
-      "penjual": "Pak Bambang",
-      "harga": "Rp 45.000",
-      "gambar": "/assets/uploads/empal-daging.jpg",
-      "deskripsi": "Empal daging empuk dengan bumbu rempah yang kaya. Dibuat dengan daging pilihan dan resep turun temurun.",
-      "nama": "Empal Daging",
-      "id": 9
-    },
-    {
-      "penjual": "Pak Suryanto",
-      "harga": "Rp 40.000",
-      "gambar": "/assets/uploads/kopi-robusta.jpg",
-      "deskripsi": "Kopi robusta berkualitas dari kebun lokal. Disangrai dan digiling fresh untuk aroma dan rasa maksimal.",
-      "nama": "Kopi Robusta Lokal",
-      "id": 10
+      "nama": "Rempeyek",
+      "deskripsi": "Rempeyek adalah camilan tradisional Indonesia yang terbuat dari tepung beras atau tepung terigu yang digoreng pipih, biasanya diisi dengan kacang tanah",
+      "gambar": "/assets/uploads/WhatsApp Image 2026-01-20 at 10.59.21.jpeg"
     }
-  ]
+  ],
+  "description": "Rempeyek adalah camilan tradisional Indonesia yang terbuat dari tepung beras atau tepung terigu yang digoreng pipih, biasanya diisi dengan kacang tanah",
+  "title": "Rempeyek",
+  "gambar_produk": "/assets/uploads/WhatsApp Image 2026-01-20 at 10.59.21.jpeg"
 }
