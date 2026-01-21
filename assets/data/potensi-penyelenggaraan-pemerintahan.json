@@ -3,33 +3,63 @@
   "data": [
     {
       "no": 1,
-      "uraian": "Kepemimpinan dan Manajemen Pemerintahan",
-      "jumlahPersonil": 5
+      "uraian": "Kepala Desa",
+      "jumlahPersonil": 1
     },
     {
       "no": 2,
-      "uraian": "Perencanaan Pembangunan Desa",
-      "jumlahPersonil": 8
+      "uraian": "Sekretaris Desa",
+      "jumlahPersonil": 1
     },
     {
       "no": 3,
-      "uraian": "Keuangan dan Aset Desa",
-      "jumlahPersonil": 3
+      "uraian": "Kaur Tata Usaha dan Umum",
+      "jumlahPersonil": 1
     },
     {
       "no": 4,
-      "uraian": "Pembangunan Infrastruktur",
-      "jumlahPersonil": 12
+      "uraian": "Kaur Keuangan",
+      "jumlahPersonil": 1
     },
     {
       "no": 5,
-      "uraian": "Pendidikan dan Kesehatan",
-      "jumlahPersonil": 10
+      "uraian": "Kaur Perencana",
+      "jumlahPersonil": 1
     },
     {
       "no": 6,
-      "uraian": "Pemberdayaan Ekonomi Masyarakat",
-      "jumlahPersonil": 7
+      "uraian": "Kaur Pemerintahan",
+      "jumlahPersonil": 1
+    },
+    {
+      "no": 7,
+      "uraian": "Kaur Kesejahteraan",
+      "jumlahPersonil": 1
+    },
+    {
+      "no": 8,
+      "uraian": "Kisi Layanan",
+      "jumlahPersonil": 1
+    },
+    {
+      "no": 9,
+      "uraian": "Kepala Dusun",
+      "jumlahPersonil": 4
+    },
+    {
+      "no": 10,
+      "uraian": "Ketua RW",
+      "jumlahPersonil": 8
+    },
+    {
+      "no": 11,
+      "uraian": "Ketua RT",
+      "jumlahPersonil": 28
+    },
+    {
+      "no": 12,
+      "uraian": "BPD",
+      "jumlahPersonil": 5
     }
   ]
 }
