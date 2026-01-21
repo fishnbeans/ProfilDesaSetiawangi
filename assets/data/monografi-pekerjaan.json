@@ -2,36 +2,40 @@
   "chartTitle": "Distribusi Penduduk Berdasarkan Pekerjaan",
   "data": [
     {
-      "job": "Petani",
-      "count": 1200
+      "job": "Petani Pemilik Tanah",
+      "count": 668
     },
     {
       "job": "Buruh Tani",
-      "count": 850
+      "count": 1333
     },
     {
-      "job": "Pedagang",
-      "count": 680
-    },
-    {
-      "job": "Karyawan Swasta",
-      "count": 920
-    },
-    {
-      "job": "PNS",
-      "count": 320
+      "job": "Pengusaha Dagang",
+      "count": 220
     },
     {
       "job": "Pengrajin",
-      "count": 450
+      "count": 76
     },
     {
-      "job": "Nelayan",
-      "count": 280
+      "job": "Pengusaha Angkutan",
+      "count": 15
     },
     {
-      "job": "Lainnya",
-      "count": 266
+      "job": "PNS",
+      "count": 24
+    },
+    {
+      "job": "Montir",
+      "count": 35
+    },
+    {
+      "job": "Buruh Harian Lepas",
+      "count": 1037
+    },
+    {
+      "job": "Peternak",
+      "count": 2
     }
   ]
 }
