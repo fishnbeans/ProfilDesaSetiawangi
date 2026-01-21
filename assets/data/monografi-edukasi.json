@@ -2,36 +2,28 @@
   "chartTitle": "Distribusi Penduduk Berdasarkan Pendidikan",
   "data": [
     {
-      "education": "Tidak Tamat SD",
-      "count": 280
+      "education": "TK / RA / PAUD",
+      "count": 178
     },
     {
-      "education": "Tamat SD",
-      "count": 420
+      "education": "SD/Sederajat",
+      "count": 1940
     },
     {
-      "education": "SMP",
-      "count": 680
+      "education": "SMP/Sederajat",
+      "count": 513
     },
     {
-      "education": "SMA",
-      "count": 1200
+      "education": "SMA/Sederajat",
+      "count": 224
     },
     {
-      "education": "Diploma",
-      "count": 450
+      "education": "Perguruan TInggi",
+      "count": 53
     },
     {
-      "education": "Sarjana",
-      "count": 950
-    },
-    {
-      "education": "Magister",
-      "count": 286
-    },
-    {
-      "education": "Doktor",
-      "count": 220
+      "education": "Buta Huruf",
+      "count": 0
     }
   ]
 }
