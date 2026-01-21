@@ -4,7 +4,7 @@
     {
       "no": 1,
       "uraian": "Kantor Desa",
-      "jumlah": "",
+      "jumlah": ".",
       "subitems": [
         {
           "subNo": "a",
@@ -41,7 +41,7 @@
     {
       "no": 2,
       "uraian": "Inventaris Penunjang",
-      "jumlah": "",
+      "jumlah": ".",
       "subitems": [
         {
           "subNo": "a",
@@ -72,6 +72,53 @@
           "subNo": "h",
           "uraian": "Infocus",
           "jumlah": "1 Set"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "uraian": "Buku Administrasi Desa",
+      "jumlah": ".",
+      "subitems": [
+        {
+          "subNo": "a",
+          "uraian": "Buku Induk Kependudukan",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "b",
+          "uraian": "Buku Tamu",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "c",
+          "uraian": "Buku Agenda Surat",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "d",
+          "uraian": "Buku Mutasi Kependudukan",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "e",
+          "uraian": "Buku Rekapitulasi Kependudukan",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "f",
+          "uraian": "Buku Inventaris",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "g",
+          "uraian": "Buku Kas Umum",
+          "jumlah": "1 set"
+        },
+        {
+          "subNo": "h",
+          "uraian": "Buku Data Pembangunan",
+          "jumlah": "1 set"
         }
       ]
     }
