@@ -1,54 +1,49 @@
 {
   "luas-wilayah": [
     {
-      "Lahan": "Sawah",
-      "Luas": "90",
-      "Satuan": "Hektare"
+      "kolom1": "Sawah",
+      "kolom2": "90",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Ladang",
-      "Luas": "72",
-      "Satuan": "Hektare"
+      "kolom1": "Ladang",
+      "kolom2": "72",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Perkebunan",
-      "Luas": "596",
-      "Satuan": "Hektare"
+      "kolom1": "Perkebunan",
+      "kolom2": "596",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Hutan",
-      "Luas": "58",
-      "Satuan": "Hektare"
+      "kolom1": "Hutan",
+      "kolom2": "58",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Hutan",
-      "Luas": "58",
-      "Satuan": "Hektare"
+      "kolom1": "Perkantoran",
+      "kolom2": "6",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Perkantoran",
-      "Luas": "6",
-      "Satuan": "Hektare"
+      "kolom1": "Pekuburan",
+      "kolom2": "5",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Pekuburan",
-      "Luas": "5",
-      "Satuan": "Hektare"
+      "kolom1": "Prasarana Umum",
+      "kolom2": "17",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Prasarana Umum",
-      "Luas": "17",
-      "Satuan": "Hektare"
+      "kolom1": "Lainnya",
+      "kolom2": "71",
+      "kolom3": "Hektare"
     },
     {
-      "Lahan": "Lainnya",
-      "Luas": "17",
-      "Satuan": "Hektare"
-    },
-    {
-      "Lahan": "Total",
-      "Luas": "915",
-      "Satuan": "Hektare"
+      "kolom1": "Total Luas Wilayah",
+      "kolom2": "915",
+      "kolom3": "Hektare"
     }
   ]
 }
