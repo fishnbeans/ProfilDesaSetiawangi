@@ -2,7 +2,19 @@
   "visi": "Melayani Masyarakat Desa Setiawangi secara menyeluruh demi terwujudnya Desa Setiawangi yang Religius/Islami, maju, mandiri, sehat, dan sejahtera.",
   "misi": [
     {
-      "item": "test"
+      "item": "Mewujudkan pemerintah desa Setiawangi yang tertib dan berwibawa"
+    },
+    {
+      "item": "Mewujudkan sarana dan prasarana desa Setiawangi yang memadai"
+    },
+    {
+      "item": "Mewujudkan perekonomian dan kesejahteraan warga desa Setiawangi"
+    },
+    {
+      "item": "Mewujudkan kesehatan masyarakat desa Setiawangi, aman dan sejahtera"
+    },
+    {
+      "item": "Mewujudkan desa setiawangi yang religi, nasionalis, dan berpendidikan"
     }
   ],
   "image": "/assets/Struktur-pemerintahan.png"
